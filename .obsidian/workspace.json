@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fafb0c6c20f541a2",
+        "id": "7fbe2559b996f165",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5aad27c8d3a321",
+            "id": "cc50ff2e9c01eed7",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "칸반보드/GTD.md",
+                "file": "주간 칸반/11월 4째주.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "GTD"
+              "title": "11월 4째주"
             }
           }
         ]
@@ -46,7 +46,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -145,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "칸반보드/GTD.md"
+                "file": "주간 칸반/11월 4째주.md"
               },
               "icon": "lucide-list",
-              "title": "GTD 개요"
+              "title": "11월 4째주 개요"
             }
           },
           {
@@ -190,14 +190,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d5aad27c8d3a321",
+  "active": "292a489165aca821",
   "lastOpenFiles": [
-    "테스트 3 @{2024-11-26}.md",
-    "칸반보드/GTD.md",
-    "이름 없는 보드.md",
-    "칸반보드",
-    "무제 파일 1.canvas",
+    "프로젝트/쿠버네티스 클러스터 구축하기",
+    "SRE/Observability/쿠버네티스 인프라 구축하기🛫 2024-11-25 📅 2024-12-01.md",
+    "프로젝트",
+    "주간 칸반/11월 4째주.md",
+    "SRE/CI-CD/ArgoCD",
+    "SRE/IaC/Ansible",
+    "SRE/IaC/Terraform",
+    "SRE/Kubernetes",
+    "SRE/IaC/Vagrant",
+    "SRE/IaC",
+    "SRE/CI-CD",
+    "SRE",
+    "SRE/Observability/Signoz",
     "무제 파일.canvas",
+    "테스트 3 @{2024-11-26}.md",
+    "이름 없는 보드.md",
+    "무제 파일 1.canvas",
     "이름 없는 보드 1.md"
   ]
 }
