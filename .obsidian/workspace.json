@@ -4,17 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "b69e9af0638afe88",
+        "id": "fafb0c6c20f541a2",
         "type": "tabs",
         "children": [
           {
-            "id": "236a28633890e7d6",
+            "id": "0d5aad27c8d3a321",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "kanban",
+              "state": {
+                "file": "칸반보드/GTD.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "GTD"
             }
           }
         ]
@@ -89,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "칸반보드/GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "GTD의 백링크"
             }
           },
           {
@@ -107,11 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "칸반보드/GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "GTD의 나가는 링크"
             }
           },
           {
@@ -132,9 +144,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "칸반보드/GTD.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "GTD 개요"
             }
           },
           {
@@ -176,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292a489165aca821",
+  "active": "0d5aad27c8d3a321",
   "lastOpenFiles": [
-    "이름 없는 보드.md",
+    "테스트 3 @{2024-11-26}.md",
     "칸반보드/GTD.md",
+    "이름 없는 보드.md",
     "칸반보드",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
