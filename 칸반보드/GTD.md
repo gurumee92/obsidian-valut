@@ -1,0 +1,26 @@
+---
+
+kanban-plugin: board
+
+---
+
+## TODO
+
+
+
+## IN PROGRESS
+
+
+
+## DONE
+
+**완료됨**
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
+```
+%%
